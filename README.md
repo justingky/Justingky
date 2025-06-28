@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Justingky!
 
-<!--
-**justingky/Justingky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub 👨‍💻  
+I'm a tech enthusiast exploring the world of development — from scripting on Termux, playing with custom ROMs, to building cool projects.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Into:
+- 💻 Linux & Termux customization
+- 🔧 Android tweaking & modding
+- 📱 Building apps & automation tools
+- 🎮 Emulation, gaming tweaks, and performance mods
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Tools & Tech I Use:
+- Termux + Shell Script
+- Python, Bash
+- Git & GitHub
+- Magisk, Zygisk, Kernel Mods
+- FKM (Franco Kernel Manager), Suyu, PPSSPP
+
+## 🔧 Projects I'm Working On:
+- `termux-tweaks`: Power tools for rooted Android
+- `thermal-manager`: Custom kernel script controller
+- `justmod`: Collection of Magisk modules and tweaks
+
+## 📫 Connect with me:
+- GitHub: [justingky](https://github.com/justingky)
+- (Soon maybe: Telegram, Website, YouTube?)
+
+---
+
+> Stay tuned! I'm just getting started 🚀
